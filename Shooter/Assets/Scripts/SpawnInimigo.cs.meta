@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 22374cfc1d4488447b61a29d411a2f8b
+timeCreated: 1518456129
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inimigoPrefab: {fileID: 1194136146179760, guid: 70a2593f3e250b64fb0f2cf9b196de38,
+      type: 2}
+  - limiteEsquerda: {instanceID: 0}
+  - limiteDireita: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

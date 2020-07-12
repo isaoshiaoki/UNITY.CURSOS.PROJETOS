@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<dialogos>
+
+	<dialogo name="fala0">
+		<falas>
+		
+			<fala>Hi, my name is Pedro!</fala>
+			<fala>I have a mission for you!</fala>
+			<fala>Do you accept?</fala>
+		</falas>
+	</dialogo>
+	
+	
+	<dialogo name="fala1">
+		<falas>
+		
+			<fala> I'm glad to hear that you're going to help me! </fala>
+			<fala>At the end of the mission, talk to me again!</fala>
+			<fala>See you soon! </fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala2">
+		<falas>
+		
+			<fala> What a pity!</fala>
+			<fala>If you change your mind, go back and talk to me! </fala>
+			<fala>See you soon!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala3">
+		<falas>
+		
+			<fala>Talk back to me when you finish the mission</fala>
+			<fala>See you soon!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala4">
+		<falas>
+		
+			<fala>I see you have successfully completed your mission</fala>
+			<fala>Get your reward! </fala>
+			<fala>See you soon!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="fala5">
+		<falas>
+			<fala>Até Logo!</fala>
+		</falas>
+	</dialogo>
+	
+	<dialogo name="resposta0">
+		<falas>
+		
+			<fala>Yes, I accept the mission!</fala>
+			<fala> No, I already have other things to do! </fala>
+		</falas>
+	</dialogo>
+	
+	
+</dialogos>

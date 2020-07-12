@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scriptsFelpudo/actionCenaPrincipal.cs">
+    <Files>
+      <File FileName="Assets/scriptsFelpudo/actionCenaPrincipal.cs" Line="53" Column="54" />
+      <File FileName="Assets/scriptsFelpudo/actionMenuIntro.cs" Line="52" Column="1" />
+      <File FileName="Assets/Qualcomm Augmented Reality/Scripts/DefaultTrackableEventHandler.cs" Line="117" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
